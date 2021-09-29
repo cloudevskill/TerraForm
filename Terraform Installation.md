@@ -1,4 +1,6 @@
 **Install Terraform**
+      
+https://learn.hashicorp.com/tutorials/terraform/install-cli
 
    **#Below Step's are for Amazon Linux**
 
